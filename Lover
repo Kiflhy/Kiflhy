@@ -1,0 +1,25 @@
+
+{
+
+
+  "keajaiban": {
+
+    "versi": "Telegram : @Kiflhynhiboss😎💪",
+
+    "versionCode": "23",
+
+    "tautan": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
+
+    "catatan": "https://raw.githubusercontent.com/tecnical-ishaq/tecnical-ishaq/main/23000.md"
+
+  },
+
+  "rintisan": {
+
+    "versionCode": "21",
+
+    "tautan": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
+
+  }
+
+}
